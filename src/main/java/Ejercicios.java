@@ -1,9 +1,9 @@
-public class Main {
+public class Ejercicios {
 
     public static void meses(){
         String[] mes = {"enero", "febrero", "marzo", "abril", "mayo", "junio", "julio", "agosto", "septiembre", "octubre", "noviembre", "diciembre"};
         System.out.println("Tamaño: " + mes.length);
-        
+
         for(String m : mes){
             System.out.println(m);
         }
@@ -11,10 +11,10 @@ public class Main {
         mes[0] = "";
 
         for(String m : mes){
-            if(!m.equals(mes)){
+            if(!m.equals("")){
                 System.out.println(m);
             }
-            
+
         }
     }
 
@@ -52,7 +52,7 @@ public class Main {
         }
         return matriz;
     }
-  
+
     public static int[][] matrizf13(int tamanio, int num){
         int matriz[][] = new int[tamanio][tamanio];
 
@@ -63,6 +63,7 @@ public class Main {
         }
         return matriz;
     }
+
     public static void main(String[] args) {
         //meses();
         //int [][] m = {
@@ -70,6 +71,5 @@ public class Main {
         //    {3, 4}
         imprimirMatriz(matrizf13(5, 0));
 
-        
     }
 }
