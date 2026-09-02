@@ -1,0 +1,64 @@
+<mxfile host="Electron">
+  <diagram name="Página-1" id="Piom_Tv6jKqBAUzdC_7M">
+    <mxGraphModel dx="3371" dy="2212" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jkKjkMzZSNaC0VjQNWM9-2" parent="1" style="shape=folder;tabWidth=80;tabHeight=20;tabPosition=left;strokeWidth=2;html=1;whiteSpace=wrap;align=center;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" value="realizacion&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="520" width="690" x="-1550" y="-1020" as="geometry" />
+        </mxCell>
+        <mxCell id="jkKjkMzZSNaC0VjQNWM9-3" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;Volador&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;+ Volar(): void&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="230" x="-1350" y="-960" as="geometry" />
+        </mxCell>
+        <mxCell id="jkKjkMzZSNaC0VjQNWM9-4" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;Pajaro&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ volar(): void&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="190" x="-1470" y="-760" as="geometry" />
+        </mxCell>
+        <mxCell id="jkKjkMzZSNaC0VjQNWM9-5" edge="1" parent="1" source="jkKjkMzZSNaC0VjQNWM9-4" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="jkKjkMzZSNaC0VjQNWM9-3" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="-1350" y="-450" as="sourcePoint" />
+            <mxPoint x="-1190" y="-450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jkKjkMzZSNaC0VjQNWM9-6" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;Avion&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ volar(): void&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="190" x="-1170" y="-750" as="geometry" />
+        </mxCell>
+        <mxCell id="jkKjkMzZSNaC0VjQNWM9-7" edge="1" parent="1" source="jkKjkMzZSNaC0VjQNWM9-6" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" target="jkKjkMzZSNaC0VjQNWM9-3" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="-1050" y="-690" as="sourcePoint" />
+            <mxPoint x="-890" y="-690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jkKjkMzZSNaC0VjQNWM9-9" edge="1" parent="1" source="jkKjkMzZSNaC0VjQNWM9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="jkKjkMzZSNaC0VjQNWM9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jkKjkMzZSNaC0VjQNWM9-11" parent="1" style="shape=folder;tabWidth=80;tabHeight=20;tabPosition=left;strokeWidth=2;html=1;whiteSpace=wrap;align=center;fillColor=#b1ddf0;strokeColor=#10739e;" value="realizacion&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="520" width="690" x="-610" y="-1010" as="geometry" />
+        </mxCell>
+        <mxCell id="jkKjkMzZSNaC0VjQNWM9-12" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;Vehiculo&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;-marca: String&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;-velocidadMaxima: int&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+Vehiculo(marca: String, velocidadMaxima: int)&lt;/p&gt;" vertex="1">
+          <mxGeometry height="140" width="275" x="-410" y="-950" as="geometry" />
+        </mxCell>
+        <mxCell id="jkKjkMzZSNaC0VjQNWM9-13" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Coche&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="190" x="-530" y="-750" as="geometry" />
+        </mxCell>
+        <mxCell id="jkKjkMzZSNaC0VjQNWM9-14" edge="1" parent="1" source="jkKjkMzZSNaC0VjQNWM9-13" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" target="jkKjkMzZSNaC0VjQNWM9-12" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="-410" y="-440" as="sourcePoint" />
+            <mxPoint x="-250" y="-440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jkKjkMzZSNaC0VjQNWM9-15" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;MotoCar&lt;/i&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="70" width="190" x="-220" y="-750" as="geometry" />
+        </mxCell>
+        <mxCell id="jkKjkMzZSNaC0VjQNWM9-16" edge="1" parent="1" source="jkKjkMzZSNaC0VjQNWM9-15" style="endArrow=block;dashed=1;endFill=0;endSize=12;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" target="jkKjkMzZSNaC0VjQNWM9-12" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="-110" y="-680" as="sourcePoint" />
+            <mxPoint x="50" y="-680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jkKjkMzZSNaC0VjQNWM9-17" edge="1" parent="1" source="jkKjkMzZSNaC0VjQNWM9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;innerLoopWaypoints=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="jkKjkMzZSNaC0VjQNWM9-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
